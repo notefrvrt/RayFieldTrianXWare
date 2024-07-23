@@ -1,3 +1,4 @@
+coroutine.wrap(mainNameless)()
 if getgenv().ServerConnectionLoaded then return end
 
 local function NACaller(pp)--helps me log better
