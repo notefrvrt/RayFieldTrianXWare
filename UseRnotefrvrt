@@ -1,0 +1,11 @@
+function printService()
+   print("Service: fc053039-1214-4b6d-b213-fe2e202aad08")
+   print("Code: 015858")
+end
+function identityHash()
+   print("Connection hash: r2fcVD6iMVKiKUA8Vz6n2dNusHjSfZsm3rLvmn4MmecYvqk7wgIXIeLkOtJsOjq0")
+end
+function identityCode()
+   print("Secret code: qlgqlCA17Ci3jK5NA9kxmnfT2OGuFNaX+OvMUNveyVagMAM1Qi/Ui72NajOMTIqn")
+end
+--don't give this script to anyone.
